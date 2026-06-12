@@ -2,23 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDB4F5,100:7DB7F0&height=180&section=header&text=Kanak%20Ramteke&fontSize=52&fontAlignY=36&desc=Frontend%20Developer%20•%20React%20Learner%20•%20AI%20Enthusiast&descAlignY=58&fontColor=F5F5F5" />
 
+✦ Building projects, solving problems, and learning something new every day. ✦
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%88;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
 </div>
 
 <div align="center">
-
-✦ Building projects, solving problems, and learning something new every day. ✦
-
-<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%88;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%8C%B1)](https://git.io/typing-svg)
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE_LINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
