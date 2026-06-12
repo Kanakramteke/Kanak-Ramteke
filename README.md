@@ -9,9 +9,7 @@
 ✦ Building projects, solving problems, and learning something new every day. ✦
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Data+Analyst+📈; AI+%26+ML+Enthusiast+🤖;Always+Learning+Something+New+🌱)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%88;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%8C%B1)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
