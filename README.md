@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Engineering+Student+🚀;Frontend+Developer+💻;React+Learner+⚛️;Hackathon+Builder+🏆;AI+%26+ML+Enthusiast+🤖;Always+Learning+Something+New+🌱)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Data+Analyst+📈; AI+%26+ML+Enthusiast+🤖;Always+Learning+Something+New+🌱)](https://git.io/typing-svg)
 
 <br/>
 
